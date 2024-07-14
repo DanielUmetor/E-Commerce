@@ -959,3 +959,21 @@ footer {
   padding-top: 5rem;
   color: brown;
 }
+
+.aboutimg{
+  background: url(.aboutimg);
+  background-repeat: no-repeat;
+  width: 50%;
+  position: absolute;
+  left: 0px;
+  height: 100%;
+}
+.about.text{
+  .h1{
+    font-size: 3rem;
+    width: 50%;
+  position: absolute;
+  left: 200px;
+  height: 100%;
+  }
+}
